@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS TiendaTech;
+CREATE DATABASE TiendaTech;
+USE TiendaTech;
+
